@@ -2,6 +2,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 const { EmbedBuilder } = require('discord.js');
 const axios = require('axios');
 
+
 const webhookURL = process.env.ERROR_WEBHOOK_URL; // Use the environment variable
 
 module.exports = {
@@ -10,9 +11,6 @@ module.exports = {
         .setDescription('Find your Discord ID.'),
     async execute(interaction) {
         try {
-
-            // Deliberate error for testing purposes
-      console.log(nonExistentVariable);
 
             const userId = interaction.user.id;
             const username = interaction.user.username;
