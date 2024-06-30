@@ -66,8 +66,16 @@ To run MxConsole on your own server, follow these steps:
  ERROR_WEBHOOK_URL: 'WEBHOOK_URL'     // Replace with your error webhook URL
   ```
 
-  ### Step 4: Run the Bot:
+  ### Step 4: Register Slash Commands
+
+  To register the bot's slash commands, use the following command:
+
   ```js
+  node src/register-commands.js
+  ```
+
+  ### Step 5: Run the Bot:
+   ```js
    node src/index.js
    ```
 
@@ -80,5 +88,14 @@ To start the bot, use the following command:
 ```sh
 node src/index.js
 ```
+
+### Reloading Slash Commands
+
+To reload the bot's slash commands, use the following command:
+
+```sh
+node src/register-commands.js
+```
+
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
 
