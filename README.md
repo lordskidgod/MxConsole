@@ -25,8 +25,8 @@ To add MxConsole to your Discord server, follow these steps:
 
 1. **Clone the Repository**:
    
-git clone https://github.com/lordskidgod/MxConsole.git
-cd MxConsole
+`git clone https://github.com/lordskidgod/MxConsole.git`
+`cd MxConsole`
 
 2. **Install Dependencies**:
 3. **Configure Environment Variables**:
