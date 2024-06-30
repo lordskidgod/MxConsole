@@ -102,26 +102,58 @@ node src/index.js
 node src/register-commands.js
 ```
 
-Commands
-- /bug-report: Allows users to submit bug reports to the designated channel (#bug-reports). The bot listens for messages starting with /bug-report followed by the details of the bug. It logs these reports to the specified channel using a webhook for easy tracking and resolution by moderators.
+### Commands
 
-- /changelogs: Retrieves and displays recent updates and changes made to the bot or server. It fetches this information from a predefined source (e.g., a text file or API endpoint) and formats it into a readable embed message for users to view.
+<details>
+<summary><strong>/bug-report</strong>: Allows users to submit bug reports to the designated channel (#bug-reports).</summary>
+The bot listens for messages starting with /bug-report followed by the details of the bug. It logs these reports to the specified channel using a webhook for easy tracking and resolution by moderators.
 
-- /ip: Fetches and displays the IP address of the Minecraft server associated with the bot. It retrieves this information either from a configuration file or directly from the server's status API, presenting it in a clear and accessible format to users.
+</details>
+<details>
+<summary><strong>/changelogs</strong>: Retrieves and displays recent updates and changes made to the bot or server.</summary>
+It fetches this information from a predefined source (e.g., a text file or API endpoint) and formats it into a readable embed message for users to view.
 
-- /help: Provides users with information about available commands and their functionalities. It responds to /help commands by sending a structured list of commands, along with brief descriptions of each, ensuring users understand how to interact with the bot effectively.
+</details>
+<details>
+<summary><strong>/ip</strong>: Fetches and displays the IP address of the Minecraft server associated with the bot.</summary>
+It retrieves this information either from a configuration file or directly from the server's status API, presenting it in a clear and accessible format to users.
 
-- /feedback: Enables users to submit feedback about the bot or server. It prompts users to provide their feedback, which can include text-based comments and optional star ratings. The bot then processes this feedback, logs it to a dedicated channel (#feedback), and notifies relevant staff members for review and response.
+</details>
+<details>
+<summary><strong>/help</strong>: Provides users with information about available commands and their functionalities.</summary>
+It responds to /help commands by sending a structured list of commands, along with brief descriptions of each, ensuring users understand how to interact with the bot effectively.
 
-- /myid: Returns the Discord ID of the user who issued the command. It retrieves and displays the user's unique Discord identifier, facilitating user-specific actions or queries within the bot's functionality.
+</details>
+<details>
+<summary><strong>/feedback</strong>: Enables users to submit feedback about the bot or server.</summary>
+It prompts users to provide their feedback, which can include text-based comments and optional star ratings. The bot then processes this feedback, logs it to a dedicated channel (#feedback), and notifies relevant staff members for review and response.
 
-- /ping: Checks the latency (ping) of the bot to the Discord servers. It calculates and displays the time taken for the bot to receive and respond to a command, helping users assess the bot's responsiveness and connection quality.
+</details>
+<details>
+<summary><strong>/myid</strong>: Returns the Discord ID of the user who issued the command.</summary>
+It retrieves and displays the user's unique Discord identifier, facilitating user-specific actions or queries within the bot's functionality.
 
-- /player-report: Facilitates the management of player reports within the server. It allows moderators and administrators to view and handle reports submitted by users, including details such as the reported player's username, the reason for the report, and the number of times reported. Access to this command is restricted to authorized staff members (@admin and @moderator roles).
+</details>
+<details>
+<summary><strong>/ping</strong>: Checks the latency (ping) of the bot to the Discord servers.</summary>
+It calculates and displays the time taken for the bot to receive and respond to a command, helping users assess the bot's responsiveness and connection quality.
 
-- /serverinfo: Provides detailed information about the Discord server where the bot is installed. It retrieves and displays server-specific details such as the server name, member count, creation date, and region, offering users insights into the server's configuration and demographics.
+</details>
+<details>
+<summary><strong>/player-report</strong>: Facilitates the management of player reports within the server.</summary>
+It allows moderators and administrators to view and handle reports submitted by users, including details such as the reported player's username, the reason for the report, and the number of times reported. Access to this command is restricted to authorized staff members (@admin and @moderator roles).
 
-- /website: Displays the website URL associated with the Minecraft server. It retrieves and presents the server's website link, facilitating easy access for users to visit and explore additional information about the server, such as community resources, forums, or shop pages.
+</details>
+<details>
+<summary><strong>/serverinfo</strong>: Provides detailed information about the Discord server where the bot is installed.</summary>
+It retrieves and displays server-specific details such as the server name, member count, creation date, and region, offering users insights into the server's configuration and demographics.
+
+</details>
+<details>
+<summary><strong>/website</strong>: Displays the website URL associated with the Minecraft server.</summary>
+It retrieves and presents the server's website link, facilitating easy access for users to visit and explore additional information about the server, such as community resources, forums, or shop pages.
+
+</details>
 
 ### Notes:
 - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
