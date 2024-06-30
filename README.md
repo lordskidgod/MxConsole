@@ -85,7 +85,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
 - To start the bot, use the following command:
 
-```sh
+```js
 node src/index.js
 ```
 
@@ -98,7 +98,7 @@ node src/index.js
 
 - To reload the bot's slash commands, use the following command:
 
-```sh
+```js
 node src/register-commands.js
 ```
 
