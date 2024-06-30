@@ -77,5 +77,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Include relevant links such as a license file, command reference, and any external resources used.
 
 
-<h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT Powered By Ceylon Network Inc</h6>
+<h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
 
