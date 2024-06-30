@@ -6,77 +6,78 @@
     <img src="MxConsole2.png" alt="MxConsole Logo" width="200"/>
 </p>
 
----
+# MxConsole v1.20.4
 
-## Overview
+![MxConsole Logo](https://media.discordapp.net/attachments/1046136178098831487/1256828597151469670/SriCraft_Logo1.png)
 
-MxConsole is a versatile Discord bot designed to enhance server management and user interaction. It includes features tailored for gaming communities, administration, and utility.
+MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft server with advanced features, professional commands, and custom functionalities.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Commands](#commands)
+  - [/bug-report](#bug-report)
+  - [/changelogs](#changelogs)
+  - [/ip](#ip)
+  - [/help](#help)
+  - [/feedback](#feedback)
+  - [/myid](#myid)
+  - [/ping](#ping)
+  - [/player-report](#player-report)
+  - [/serverinfo](#serverinfo)
+  - [/website](#website)
+- [Error Logging](#error-logging)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- **Custom Commands**: Easily add and manage custom commands tailored to your server's needs.
-- **Moderation Tools**: Tools for managing members, roles, and channels efficiently.
-- **Information Retrieval**: Fetch server information, status updates, and player statistics on demand.
-- **Integration**: Seamless integration with APIs and external services for enhanced functionality.
+- Professional Ping Command with Embeds and Emojis
+- Feedback System with Star Ratings and Staff Mentions
+- Changelog Display with Navigation
+- Custom Status Rotations
+- Error Logging to Discord via Webhook
+- Minecraft Server Website Display
+- Player Reports Management
 
 ## Installation
 
-To add MxConsole to your Discord server, follow these steps:
+To run MxConsole on your own server, follow these steps:
 
 1. **Clone the Repository**:
-   
-git clone https://github.com/lordskidgod/MxConsole.git
-
-cd MxConsole
+    ```sh
+    git clone https://github.com/yourusername/MxConsole.git
+    cd MxConsole
+    ```
 
 2. **Install Dependencies**:
-3. **Configure Environment Variables**:
-- Create a `.env` file based on `.env.example` and add your Discord bot token.
+    ```sh
+    npm install
+    ```
 
-4. **Start the Bot**:
+3. **Set Up Configuration**:
+    - Create a `.env` file in the root directory.
+    - Add your Discord bot token and other necessary configurations:
+    ```env
+    DISCORD_TOKEN=your-bot-token
+    ```
 
-   npm start
+4. **Run the Bot**:
+    ```sh
+    node src/index.js
+    ```
 
-   
 ## Usage
 
-MxConsole supports various commands and functionalities:
+### Starting the Bot
 
-- **`/help`**: Display a list of available commands.
-- **`/status`**: Show the current status of the bot.
-- **`/report [issue]`**: Report an issue to server administrators.
+To start the bot, use the following command:
 
-For a full list of commands and their usage, refer to the [Command Reference](link_to_command_reference.md).
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for new features, improvements, or bug fixes, please submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature: Description'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Submit a pull request.
-
-## Credits
-
-- Author: lordskidgod
-- Discord: [JaNuK#1283]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-### Notes:
-
-- Replace placeholders like `yourusername`, `link_to_logo.png`, `link_to_command_reference.md`, and others with actual values relevant to your project.
-- Provide clear instructions for installation, usage, and contribution.
-- Include relevant links such as a license file, command reference, and any external resources used.
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=lordskidgod/MxConsole)
+```sh
+node src/index.js
 
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
 
