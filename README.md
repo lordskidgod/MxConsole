@@ -41,7 +41,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
 ## Installation
 
-To run MxConsole on your own server, follow these steps:
+- To run MxConsole on your own server, follow these steps:
 
   ### Step 1: Clone the Repository:
 
