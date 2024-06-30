@@ -55,11 +55,14 @@ cd MxConsole
 npm install
 ```
 
-3. **Set Up Configuration**:
-    - Create a `.env` file in the root directory.
-    - Add your Discord bot token and other necessary configurations:
+### Step 3: Replace the Token and Other Dependencies Inside
+- Open the `.env` file in the root directory.
+- Replace the placeholders with your actual Discord bot token, client ID, guild ID, and error webhook URL:
     ```env
-    DISCORD_TOKEN=your-bot-token
+  TOKEN: 'DISCORD_BOT_TOKEN',          // Replace with your bot token
+  CLIENT_ID: 'PASTE_CLIENT_ID',        // Replace with your client ID
+  GUILD_ID: 'PASTE_GUILD_ID',          // Replace with your guild ID
+  ERROR_WEBHOOK_URL: 'WEBHOOK_URL'     // Replace with your error webhook URL
     ```
 
 4. **Run the Bot**:
