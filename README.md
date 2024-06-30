@@ -61,8 +61,8 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 ## Credits
 
-- Author: Your Name
-- Discord: [Your Discord Tag]
+- Author: lordskidgod
+- Discord: [JaNuK#1283]
 
 ## License
 
