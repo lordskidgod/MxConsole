@@ -112,11 +112,11 @@ node src/register-commands.js
 
 <details>
 <summary><strong>/bug-report</strong>: Allows users to submit bug reports to the designated channel (#bug-reports).</summary>
-```ssh
+```markdown
 The bot listens for messages starting with /bug-report followed by the details of the bug. It logs these reports to the specified channel using a webhook for easy tracking and resolution by moderators.
-```
 
 </details>
+```
 <details>
 <summary><strong>/changelogs</strong>: Retrieves and displays recent updates and changes made to the bot or server.</summary>
 It fetches this information from a predefined source (e.g., a text file or API endpoint) and formats it into a readable embed message for users to view.
