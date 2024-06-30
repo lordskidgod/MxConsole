@@ -5,8 +5,6 @@
     "axios": "^1.7.2",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
-    "minecraft-server-util": "^5.4.4",
-    "mineflayer": "^4.0.0",
     "winston": "^3.13.0"
   },
   "name": "mxconsole",
