@@ -83,7 +83,7 @@ To run MxConsole on your own server, follow these steps:
 
 ### Starting the Bot
 
-To start the bot, use the following command:
+- To start the bot, use the following command:
 
 ```sh
 node src/index.js
@@ -96,7 +96,7 @@ node src/index.js
 
 ### Reloading Slash Commands
 
-To reload the bot's slash commands, use the following command:
+- To reload the bot's slash commands, use the following command:
 
 ```sh
 node src/register-commands.js
