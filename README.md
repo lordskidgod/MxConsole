@@ -68,7 +68,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
   ### Step 4: Register Slash Commands
 
-  To register the bot's slash commands, use the following command:
+  - To register the bot's slash commands, use the following command:
 
   ```js
   node src/register-commands.js
