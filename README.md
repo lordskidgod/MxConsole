@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1255775674204028979/1257018729431302165/MxConsole2.png" alt="MxConsole Logo" width="200"/>
+    <img src="MxConsole2.png" alt="MxConsole Logo" width="200"/>
 </p>
 
 ---
