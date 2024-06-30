@@ -118,17 +118,17 @@ The bot listens for messages starting with /bug-report followed by the details o
 </details>
 <details>
 <summary><strong>/changelogs</strong>: Retrieves and displays recent updates and changes made to the bot or server.</summary>
-
+````
 It fetches this information from a predefined source (e.g., a text file or API endpoint) and formats it into a readable embed message for users to view.
 </details>
 <details>
 <summary><strong>/ip</strong>: Fetches and displays the IP address of the Minecraft server associated with the bot.</summary>
-
+````markdown
 It retrieves this information either from a configuration file or directly from the server's status API, presenting it in a clear and accessible format to users.
 </details>
 <details>
 <summary><strong>/help</strong>: Provides users with information about available commands and their functionalities.</summary>
-
+````
 It responds to /help commands by sending a structured list of commands, along with brief descriptions of each, ensuring users understand how to interact with the bot effectively.
 </details>
 <details>
