@@ -94,6 +94,7 @@ node src/index.js
 > 
 > **Attention:** Reload the bot after adding, deleting, or updating slash commands to apply the latest configurations.
 
+### Reloading Slash Commands
 
 To reload the bot's slash commands, use the following command:
 
