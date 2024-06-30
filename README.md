@@ -45,7 +45,7 @@ To run MxConsole on your own server, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/MxConsole.git
+    git clone https://github.com/lordskidgod/MxConsole.git
     cd MxConsole
     ```
 
