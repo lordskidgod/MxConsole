@@ -112,7 +112,7 @@ node src/register-commands.js
 
 <details>
 <summary><strong>/bug-report</strong>: Allows users to submit bug reports to the designated channel (#bug-reports).</summary>
-```js
+```ssh
 The bot listens for messages starting with /bug-report followed by the details of the bug. It logs these reports to the specified channel using a webhook for easy tracking and resolution by moderators.
 ```
 
