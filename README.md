@@ -115,24 +115,18 @@ node src/register-commands.js
 
 ````markdown
 The bot listens for messages starting with /bug-report followed by the details of the bug. It logs these reports to the specified channel using a webhook for easy tracking and resolution by moderators.
-
-</details>
 ````
 <details>
 <summary><strong>/changelogs</strong>: Retrieves and displays recent updates and changes made to the bot or server.</summary>
 
 ````markdown
 It fetches this information from a predefined source (e.g., a text file or API endpoint) and formats it into a readable embed message for users to view.
-
-</details>
 ````
 <details>
 <summary><strong>/ip</strong>: Fetches and displays the IP address of the Minecraft server associated with the bot.</summary>
 
 ````markdown
 It retrieves this information either from a configuration file or directly from the server's status API, presenting it in a clear and accessible format to users.
-
-</details>
 ````
 
 <details>
@@ -140,8 +134,6 @@ It retrieves this information either from a configuration file or directly from 
 
 ````markdown
 It responds to /help commands by sending a structured list of commands, along with brief descriptions of each, ensuring users understand how to interact with the bot effectively.
-
-</details>
 ````
 
 <details>
@@ -149,8 +141,6 @@ It responds to /help commands by sending a structured list of commands, along wi
 
 ````markdown
 It prompts users to provide their feedback, which can include text-based comments and optional star ratings. The bot then processes this feedback, logs it to a dedicated channel (#feedback), and notifies relevant staff members for review and response.
-
-</details>
 ````
 
 <details>
@@ -158,8 +148,6 @@ It prompts users to provide their feedback, which can include text-based comment
 
 ````markdown
 It retrieves and displays the user's unique Discord identifier, facilitating user-specific actions or queries within the bot's functionality.
-
-</details>
 ````
 
 <details>
@@ -167,8 +155,6 @@ It retrieves and displays the user's unique Discord identifier, facilitating use
 
 ````markdown
 It calculates and displays the time taken for the bot to receive and respond to a command, helping users assess the bot's responsiveness and connection quality.
-
-</details>
 ````
 
 <details>
@@ -176,8 +162,6 @@ It calculates and displays the time taken for the bot to receive and respond to 
 
 ````markdown
 It allows moderators and administrators to view and handle reports submitted by users, including details such as the reported player's username, the reason for the report, and the number of times reported. Access to this command is restricted to authorized staff members (@admin and @moderator roles).
-
-</details>
 ````
 
 <details>
@@ -185,8 +169,6 @@ It allows moderators and administrators to view and handle reports submitted by 
 
 ````markdown
 It retrieves and displays server-specific details such as the server name, member count, creation date, and region, offering users insights into the server's configuration and demographics.
-
-</details>
 ````
 
 <details>
@@ -194,8 +176,6 @@ It retrieves and displays server-specific details such as the server name, membe
 
 ````markdown
 It retrieves and presents the server's website link, facilitating easy access for users to visit and explore additional information about the server, such as community resources, forums, or shop pages.
-
-</details>
 ````
 
 ### Notes:
