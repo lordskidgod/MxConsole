@@ -90,7 +90,7 @@ node src/index.js
 ```
 
 
-> [!CAUTION]
+> [!WARNING]
 > 
 > **Attention:** Remember to reload the bot after making changes to slash commands (adding, deleting, or updating). This ensures that the latest command configurations are applied and available for use.
 ### Reloading Slash Commands
