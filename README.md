@@ -66,7 +66,7 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
