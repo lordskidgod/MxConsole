@@ -59,12 +59,12 @@ To run MxConsole on your own server, follow these steps:
  - Open the `.env` file in the root directory.
  - Replace the placeholders with your actual Discord bot token, client ID, guild ID, and error webhook URL:
   
-    ```sh
-   TOKEN: 'DISCORD_BOT_TOKEN',          // Replace with your bot token
-   CLIENT_ID: 'PASTE_CLIENT_ID',        // Replace with your client ID
-   GUILD_ID: 'PASTE_GUILD_ID',          // Replace with your guild ID
-   ERROR_WEBHOOK_URL: 'WEBHOOK_URL'     // Replace with your error webhook URL
-    ```
+ ```sh
+ TOKEN: 'DISCORD_BOT_TOKEN',          // Replace with your bot token
+ CLIENT_ID: 'PASTE_CLIENT_ID',        // Replace with your client ID
+ GUILD_ID: 'PASTE_GUILD_ID',          // Replace with your guild ID
+ ERROR_WEBHOOK_URL: 'WEBHOOK_URL'     // Replace with your error webhook URL
+  ```
 
   ### Step 4: Run the Bot:
   ```js
