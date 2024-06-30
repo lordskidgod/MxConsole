@@ -50,10 +50,10 @@ git clone https://github.com/lordskidgod/MxConsole.git
 cd MxConsole
 ```
 
-2. **Install Dependencies**:
-    ```sh
-    npm install
-    ```
+### Step 2: Install the Dependencies:
+```sh
+npm install
+```
 
 3. **Set Up Configuration**:
     - Create a `.env` file in the root directory.
