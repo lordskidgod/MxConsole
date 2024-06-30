@@ -88,7 +88,7 @@ To start the bot, use the following command:
 ```sh
 node src/index.js
 ```
-> ⚠️ Caution We have discontinued updates for this project. IVON is now on a different code base, and currently we do not
+> ⚠ Caution We have discontinued updates for this project. IVON is now on a different code base, and currently we do not
 ### Reloading Slash Commands
 
 To reload the bot's slash commands, use the following command:
