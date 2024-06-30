@@ -102,7 +102,7 @@ node src/index.js
 node src/register-commands.js
 ```
 
-### Commands
+## Commands
 
 <details>
 <summary><strong>/bug-report</strong>: Allows users to submit bug reports to the designated channel (#bug-reports).</summary>
