@@ -123,9 +123,9 @@ node src/register-commands.js
 
 TL;DR
 
-- **Permission**: Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-- **Conditions**: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-- **Disclaimer**: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+- BY: Credit must be given to me, the creator. (Tony/zfbx)
+- NC: Only noncommercial use of your work is permitted. (You can use in your own FiveM server which may make money itself BUT can't in any way sell zdiscord itself in any way for any commercial advantage or monetary compensation)
+- SA: Adaptations must be shared under the same terms.
 
 ![License](https://img.shields.io/github/license/lordskidgod/MxConsole)
 
