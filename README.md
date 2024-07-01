@@ -119,9 +119,7 @@ node src/register-commands.js
 ## License
 
 > [!NOTE] 
-> **Note:** as of version 1.20.4, MxConsole is licensed under MIT License.
-
-MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under [MIT License](LICENSE).
+> MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
 
 TL;DR
 
