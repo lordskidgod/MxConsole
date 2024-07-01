@@ -105,7 +105,7 @@ node src/register-commands.js
 ```
 
 ## Error Logging
-- The bot includes an error logging system that sends error messages to a specified Discord channel via a webhook. Configure the webhook URL in the `.env` file.
+- The bot ensures robust performance with comprehensive error logging system. Errors messages are instantly relayed to your designated Discord channel via a webhook integration. Configure the webhook URL in the `.env` file.
 
 ## Commands
 
@@ -185,6 +185,6 @@ We value your feedback and are here to help you make the most out of MxConsole.
 This structure provides a clear and organized overview of your Discord bot project, making it easier for users to understand its features, installation process, usage instructions, and how they can contribute or get > support. Adjust and expand on each section based on your project's specific needs and audience.
 
 
-<h6 align="center">© 2024 MxConsole. Developed with ❤️ by lordskidgod.</h6>
-
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
+
+<p align="center">© 2024 MxConsole. Developed with ❤️ by lordskidgod.</p>
