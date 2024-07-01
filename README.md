@@ -108,7 +108,7 @@ node src/register-commands.js
 ```
 
 ## 🛠️ Error Logging
-- The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
+- MxConsole ensures robust performance with comprehensive error logging. Errors are instantly relayed to your designated Discord channel via webhook integration. onfigure the webhook URL in the `.env` file.
 
 ## 📋 Commands
 
