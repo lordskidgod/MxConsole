@@ -8,18 +8,7 @@
 
 MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft server with advanced features, professional commands, and custom functionalities.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Error Logging](#error-logging)
-- [Commands](#commands)
-- [License](#license)
-- [Contact](#contact)
-
-## Features
+## 📝 Features
 
 > These are the features that makes you wanna use our bot. Check it out!
 >
@@ -32,7 +21,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 - Minecraft Server Website Display
 - Player Reports Management
 
-## Installation
+## 🚀 Getting Started
 
 - To run MxConsole on your own server, follow these steps:
 
@@ -81,7 +70,7 @@ ERROR_WEBHOOK_URL=WEBHOOK_URL             # Replace with your error webhook URL
    node src/index.js
    ```
 
-## Usage
+## 🔋 Usage
 
 ### Starting the Bot
 
@@ -104,10 +93,10 @@ node src/index.js
 node src/register-commands.js
 ```
 
-## Error Logging
+## 🐛 Error Logging
 - The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
-## Commands
+## 🔩 Commands
 
 <details>
 <summary>`/bug-report`</summary>
@@ -150,7 +139,7 @@ Provides detailed information about the Minecraft server, such as current status
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
 
-## License
+## 📋License
 
 > [!NOTE] 
 > MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
@@ -167,7 +156,7 @@ Displays the URL or link to the Minecraft server's official website or related r
 
 For more details, please see the [LICENSE](LICENSE) file included with the source code.
 
-## Contact
+## 📞 Contact
 
 For support, questions, or any inquiries, feel free to contact us, reach out through:
 
