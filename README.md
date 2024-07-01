@@ -110,27 +110,27 @@ node src/register-commands.js
 ## Commands
 
 <details>
-<summary>/bug-report</summary>
+<summary>`/bug-report`</summary>
 Allows users to report bugs or issues related to the Minecraft server.
 </details>
 <details>
-<summary>/changelogs</summary>
+<summary>`/changelogs`</summary>
 Displays recent changes, updates, or version history of the Minecraft server or bot.
 </details>
 <details>
-<summary>/feedback</summary>
+<summary>`/feedback`</summary>
 Enables users to submit feedback or suggestions regarding the Minecraft server.
 </details>
 <details>
-<summary>/help</summary>
+<summary>`/help`</summary>
 Provides a list of available commands and their usage instructions.
 </details>
 <details>
-<summary>/ip</summary>
+<summary>`/ip</summary>
 Shows the IP address or connection details of the Minecraft server.
 </details>
 <details>
-<summary>/myid</summary>
+<summary>`/myid`</summary>
 Displays the user's Discord ID for identification purposes.
 </details>
 <details>
@@ -138,15 +138,15 @@ Displays the user's Discord ID for identification purposes.
 Checks the bot's latency and responsiveness.
 </details>
 <details>
-<summary>/player-report</summary>
+<summary>`/player-report`</summary>
 Allows players to report other players for violations or issues within the Minecraft server.
 </details>
 <details>
-<summary>/serverinfo</summary>
+<summary>`/serverinfo`</summary>
 Provides detailed information about the Minecraft server, such as current status, player count, etc.
 </details>
 <details>
-<summary>/website</summary>
+<summary>`/website`</summary>
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
 
