@@ -157,15 +157,6 @@ Provides detailed information about the Minecraft server, such as current status
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
 
-## 📧 Contact
-
-For support, questions, or any inquiries, feel free to contact us, reach out through:
-
-- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
-- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
-
-We value your feedback and are here to help you make the most out of MxConsole.
-
 ## 📜 License
 
 > [!NOTE] 
@@ -182,6 +173,15 @@ We value your feedback and are here to help you make the most out of MxConsole.
 
 
 For more details, please see the [LICENSE](LICENSE) file included with the source code.
+
+## 📧 Contact
+
+For support, questions, or any inquiries, feel free to contact us, reach out through:
+
+- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
+- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
+
+We value your feedback and are here to help you make the most out of MxConsole.
 
 ### Notes:
 > [!NOTE]
