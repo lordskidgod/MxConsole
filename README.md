@@ -11,15 +11,15 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
 ## Table of Contents
 
-- 🌟[Overview](#overview)
-- 🚀[Features](#features)
-- ⚙️[Installation](#installation)
-- 📖[Usage](#usage)
-- 📋[Commands](#commands)
-- 🛠️[Error Logging](#error-logging)
-- 📋[Commands](#commands)
-- 📜[License](#license)
-- 📧[Contact](#contact)
+- [Overview](#overview)🌟
+- [Features](#features)🚀
+- [Installation](#installation)⚙️
+- [Usage](#usage)📖
+- [Commands](#commands)📋
+- [Error Logging](#error-logging)🛠️
+- [Commands](#commands)📋
+- [License](#license)📜
+- [Contact](#contact)📧
 
 ## 🌟 Overview
 
