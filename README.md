@@ -15,8 +15,8 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 - [Features](#features)🚀
 - [Installation](#installation)⚙️
 - [Usage](#usage)📖
-- [Commands](#commands)📋
 - [Error Logging](#error-logging)🛠️
+- [Commands](#commands)📋
 - [Contact](#contact)📧
 - [License](#license)📜
 
@@ -107,6 +107,9 @@ node src/index.js
 node src/register-commands.js
 ```
 
+## 🛠️ Error Logging
+- The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
+
 ## 📋 Commands
 
 <details>
@@ -153,9 +156,6 @@ Provides detailed information about the Minecraft server, such as current status
 <summary>/website</summary>
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
-
-## 🛠️ Error Logging
-- The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
 ## 📜 License
 
