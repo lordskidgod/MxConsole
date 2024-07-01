@@ -187,4 +187,4 @@ This structure provides a clear and organized overview of your Discord bot proje
 
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
 
-<p align="center">© 2024 Ceylon Network Inc. Developed with ❤️ by lordskidgod.</p>
+<p align="center">© 2024 Ceylon Network Inc, Developed with ❤️ by lordskidgod.</p>
