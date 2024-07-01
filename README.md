@@ -185,6 +185,6 @@ We value your feedback and are here to help you make the most out of MxConsole.
 This structure provides a clear and organized overview of your Discord bot project, making it easier for users to understand its features, installation process, usage instructions, and how they can contribute or get > support. Adjust and expand on each section based on your project's specific needs and audience.
 
 
-<p align="center">© 2024 MxConsole. Developed with ❤️ by lordskidgod.</p>
+<h6 align="center">© 2024 MxConsole. Developed with ❤️ by lordskidgod.</h6>
 
 <h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
