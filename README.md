@@ -113,6 +113,15 @@ node src/register-commands.js
 ## Error Logging
 - The bot includes an error logging system that sends error messages to a specified Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
+## Contact
+
+For support, questions, or any inquiries, feel free to contact us through the following channels:
+
+- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
+- **Discord:** Join our [Discord server](https://discord.gg/sricraft) for real-time support and community discussions.
+
+We value your feedback and are here to help you make the most out of MxConsole.
+
 ### Notes:
 - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
 - **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
