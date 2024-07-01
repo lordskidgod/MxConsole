@@ -112,7 +112,7 @@ node src/register-commands.js
 ```
 
 ### Error Logging
-- The bot includes an error logging system that sends error messages to a specified Discord channel via a webhook. Configure the webhook URL in the .env file.
+- The bot includes an error logging system that sends error messages to a specified Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
 ### Notes:
 - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
