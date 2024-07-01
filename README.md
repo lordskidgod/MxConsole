@@ -111,7 +111,7 @@ node src/index.js
 node src/register-commands.js
 ```
 
-> [!NOTICE]
+## [!NOTICE]
 > - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
 > - **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
 > - **Customization**: Tailor the content to fit your specific bot's commands, features, and project details.
