@@ -25,6 +25,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
   - [/serverinfo](#serverinfo)
   - [/website](#website)
 - [Error Logging](#error-logging)
+- [Commands](#commands)
 - [License](#license)
 - [Contact](#contact)
 
@@ -115,6 +116,49 @@ node src/register-commands.js
 
 ## Error Logging
 - The bot includes an error logging system that sends error messages to a specified Discord channel via a webhook. Configure the webhook URL in the `.env` file.
+
+## Commands
+
+<details>
+<summary>/bug-report</summary>
+Allows users to report bugs or issues related to the Minecraft server.
+</details>
+<details>
+<summary>/changelogs</summary>
+Displays recent changes, updates, or version history of the Minecraft server or bot.
+</details>
+<details>
+<summary>/feedback</summary>
+Enables users to submit feedback or suggestions regarding the Minecraft server.
+</details>
+<details>
+<summary>/help</summary>
+Provides a list of available commands and their usage instructions.
+</details>
+<details>
+<summary>/ip</summary>
+Shows the IP address or connection details of the Minecraft server.
+</details>
+<details>
+<summary>/myid</summary>
+Displays the user's Discord ID for identification purposes.
+</details>
+<details>
+<summary>/ping</summary>
+Checks the bot's latency and responsiveness.
+</details>
+<details>
+<summary>/player-report</summary>
+Allows players to report other players for violations or issues within the Minecraft server.
+</details>
+<details>
+<summary>/serverinfo</summary>
+Provides detailed information about the Minecraft server, such as current status, player count, etc.
+</details>
+<details>
+<summary>/website</summary>
+Displays the URL or link to the Minecraft server's official website or related resources.
+</details>
 
 ## License
 
