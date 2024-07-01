@@ -172,7 +172,7 @@ For more details, please see the [LICENSE](LICENSE) file included with the sourc
 For support, questions, or any inquiries, feel free to contact us through the following channels:
 
 - **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
-- **Discord:** Join our [Discord server](https://discord.gg/sricraft) for real-time support and community discussions.
+- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for real-time support and community discussions.
 
 We value your feedback and are here to help you make the most out of MxConsole.
 
