@@ -110,14 +110,23 @@ node src/register-commands.js
 ## Commands
 
 **/bug-report:** Allows users to report bugs or issues related to the Minecraft server.
+
 **/changelogs:** Displays recent changes, updates, or version history of the Minecraft server or bot.
+
 **/feedback:** Enables users to submit feedback or suggestions regarding the Minecraft server.
+
 **/help:** Provides a list of available commands and their usage instructions.
+
 **/ip:** Shows the IP address or connection details of the Minecraft server.
+
 **/myid:** Displays the user's Discord ID for identification purposes.
+
 **/ping:** Checks the bot's latency and responsiveness.
+
 **/player-report:** Allows players to report other players for violations or issues within the Minecraft server.
+
 **/serverinfo:** Provides detailed information about the Minecraft server, such as current status, player count, etc.
+
 **/website:** Displays the URL or link to the Minecraft server's official website or related resources.
 
 ## License
