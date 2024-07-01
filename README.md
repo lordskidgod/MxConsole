@@ -169,7 +169,7 @@ For more details, please see the [LICENSE](LICENSE) file included with the sourc
 
 ## Contact
 
-For support, questions, or any inquiries, feel free to contact us through the following channels:
+For support, questions, or any inquiries, feel free to contact us, reach out through:
 
 - **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
 - **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
