@@ -134,7 +134,7 @@ node src/register-commands.js
 > [!NOTE] 
 > MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
 
-TL;DR
+**TL;DR**
 
 - BY: Credit must be given to me, the creator. (Tony/zfbx)
 - NC: Only noncommercial use of your work is permitted. (You can use in your own FiveM server which may make money itself BUT can't in any way sell zdiscord itself in any way for any commercial advantage or monetary compensation)
