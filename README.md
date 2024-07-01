@@ -157,8 +157,8 @@ Displays the URL or link to the Minecraft server's official website or related r
 
 **TL;DR**
 
-- BY: Credit must be given to me, the creator. (Tony/zfbx)
-- NC: Only noncommercial use of your work is permitted. (You can use in your own FiveM server which may make money itself BUT can't in any way sell zdiscord itself in any way for any commercial advantage or monetary compensation)
+- BY: Credit must be given to me, the creator. (lordskidgod)
+- NC: Only noncommercial use of your work is permitted.
 - SA: Adaptations must be shared under the same terms.
 
 ![License](https://img.shields.io/github/license/lordskidgod/MxConsole)
