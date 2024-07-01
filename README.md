@@ -1,3 +1,4 @@
+
 <h2 align="center">
     MxConsole v1.20.4
 </h2>
@@ -7,6 +8,17 @@
 </p>
 
 MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft server with advanced features, professional commands, and custom functionalities.
+
+## 🥅 Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Commands](#commands)
+- [Error Logging](#error-logging)
+- [Commands](#commands)
+- [License](#license)
+- [Contact](#contact)
 
 ## 📝 Features
 
@@ -21,7 +33,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 - Minecraft Server Website Display
 - Player Reports Management
 
-## 🚀 Getting Started
+## 🚀 Installation
 
 - To run MxConsole on your own server, follow these steps:
 
@@ -70,7 +82,7 @@ ERROR_WEBHOOK_URL=WEBHOOK_URL             # Replace with your error webhook URL
    node src/index.js
    ```
 
-## 🔋 Usage
+## 📊 Usage
 
 ### Starting the Bot
 
@@ -93,7 +105,7 @@ node src/index.js
 node src/register-commands.js
 ```
 
-## 🐛 Error Logging
+## Error Logging
 - The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
 ## 🔩 Commands
@@ -139,7 +151,7 @@ Provides detailed information about the Minecraft server, such as current status
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
 
-## 📋License
+## 📋 License
 
 > [!NOTE] 
 > MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
