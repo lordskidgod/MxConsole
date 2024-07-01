@@ -107,9 +107,6 @@ node src/index.js
 node src/register-commands.js
 ```
 
-## 🛠️ Error Logging
-- MxConsole ensures robust performance with comprehensive error logging. Errors are instantly relayed to your designated Discord channel via webhook integration. onfigure the webhook URL in the `.env` file.
-
 ## 📋 Commands
 
 <details>
@@ -156,6 +153,9 @@ Provides detailed information about the Minecraft server, such as current status
 <summary>/website</summary>
 Displays the URL or link to the Minecraft server's official website or related resources.
 </details>
+
+## 🛠️ Error Logging
+- MxConsole ensures robust performance with comprehensive error logging. Errors are instantly relayed to your designated Discord channel via webhook integration. onfigure the webhook URL in the `.env` file.
 
 ## 📜 License
 
