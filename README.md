@@ -58,21 +58,24 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
  ```
 
  ### Step 3: Replace the Token and Other Dependencies Inside
- - Open the `.env` file in the root directory.
- - Replace the placeholders with your actual Discord bot token, client ID, guild ID etc:
-  
- ```sh
- TOKEN: 'DISCORD_BOT_TOKEN',                   // Replace with your bot token
- CLIENT_ID: 'PASTE_CLIENT_ID',                 // Replace with your client ID
- GUILD_ID: 'PASTE_GUILD_ID',                   // Replace with your guild ID
- ADMIN_ID: 'PASTE_ADMIN_ID',                   // Replace with your admin role ID
- MODERATOR_ID: 'PASTE_MOD_ID',                 // Replace with your moderator role ID
- DEV_ROLE_ID: 'PASTE_DEV_ID',                  // Replace with your developer role ID
- PLAYER_REPORT_LOG_CHANNEL: 'CHANNEL_ID',      // Replace with player report log channel ID
- PLAYER_REPORT_CHANNEL: 'CHANNEL_ID',          // Replace with player report channel ID
- BUG_REPORT_CHANNEL: 'CHANNEL_ID',             // Replace with bug report channel ID
- ERROR_WEBHOOK_URL: 'WEBHOOK_URL'              // Replace with your error webhook URL
-  ```
+> [!NOTE]
+> **Never commit or share your token or API keys publicly.** Keep them secure to prevent unauthorized access to your bot.
+
+- Open the `.env` file in the root directory.
+- Replace the placeholders with your actual Discord bot token, client ID, guild ID, etc.:
+
+```env
+TOKEN=DISCORD_BOT_TOKEN                   # Replace with your bot token
+CLIENT_ID=PASTE_CLIENT_ID                 # Replace with your client ID
+GUILD_ID=PASTE_GUILD_ID                   # Replace with your guild ID
+ADMIN_ID=PASTE_ADMIN_ID                   # Replace with your admin role ID
+MODERATOR_ID=PASTE_MOD_ID                 # Replace with your moderator role ID
+DEV_ROLE_ID=PASTE_DEV_ID                  # Replace with your developer role ID
+PLAYER_REPORT_LOG_CHANNEL=CHANNEL_ID      # Replace with player report log channel ID
+PLAYER_REPORT_CHANNEL=CHANNEL_ID          # Replace with player report channel ID
+BUG_REPORT_CHANNEL=CHANNEL_ID             # Replace with bug report channel ID
+ERROR_WEBHOOK_URL=WEBHOOK_URL             # Replace with your error webhook URL
+```
 
   ### Step 4: Register Slash Commands
 
