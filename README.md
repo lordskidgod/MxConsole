@@ -176,10 +176,10 @@ For support, questions, or any inquiries, feel free to contact us, reach out thr
 We value your feedback and are here to help you make the most out of MxConsole.
 
 ### Notes:
-> - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
-> - **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
-> - **Customization**: Tailor the content to fit your specific bot's commands, features, and project details.
-> - **Images**: You can integrate images into specific command explanations by including markdown image syntax (`![Command Name](path_to_image.png)`) where appropriate.
+- **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
+- **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
+- **Customization**: Tailor the content to fit your specific bot's commands, features, and project details.
+- **Images**: You can integrate images into specific command explanations by including markdown image syntax (`![Command Name](path_to_image.png)`) where appropriate.
   
 This structure provides a clear and organized overview of your Discord bot project, making it easier for users to understand its features, installation process, usage instructions, and how they can contribute or get > support. Adjust and expand on each section based on your project's specific needs and audience.
 
