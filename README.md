@@ -59,7 +59,7 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
  ### Step 3: Replace the Token and Other Dependencies Inside
 > [!NOTE]
-> **Never commit or share your token or API keys publicly.** Keep them secure to prevent unauthorized access to your bot.
+> **Never commit or share your bot token publicly.** Keep them secure to prevent unauthorized access to your bot.
 
 - Open the `.env` file in the root directory.
 - Replace the placeholders with your actual Discord bot token, client ID, guild ID, etc.:
