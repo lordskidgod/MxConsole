@@ -31,6 +31,9 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 
 ## Features
 
+> These are the features that makes you wanna use our bot. Check it out!
+>
+
 - Professional Ping Command with Embeds and Emojis
 - Feedback System with Star Ratings and Staff Mentions
 - Changelog Display with Navigation
