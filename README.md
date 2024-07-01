@@ -52,7 +52,6 @@ MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft 
 > [!NOTE]
 > **Never commit or share your bot token publicly.** Keep them secure to prevent unauthorized access to your bot.
 
-- Open the `.env` file in the root directory.
 - Open the `.env.example` file in the root directory & Rename to `.env`.
 - Update with your Discord bot token and server specifics.
 
