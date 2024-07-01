@@ -141,6 +141,10 @@ Checks the bot's latency and responsiveness.
 Allows players to report other players for violations or issues within the Minecraft server.
 </details>
 <details>
+<summary>/purge</summary>
+Deletes a specified number of messages from a channel.
+</details>
+<details>
 <summary>/serverinfo</summary>
 Provides detailed information about the Minecraft server, such as current status, player count, etc.
 </details>
