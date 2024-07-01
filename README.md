@@ -105,7 +105,7 @@ node src/register-commands.js
 ```
 
 ## Error Logging
-- The bot ensures robust performance with comprehensive error logging system. Errors messages are instantly relayed to your designated Discord channel via a webhook integration. Configure the webhook URL in the `.env` file.
+- The bot ensures robust performance with comprehensive error logging system. Errors are instantly relayed to your designated Discord channel via a webhook. Configure the webhook URL in the `.env` file.
 
 ## Commands
 
