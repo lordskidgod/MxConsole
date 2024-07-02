@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "os": "^0.1.2",
+    "systeminformation": "^5.22.11",
+    "winston": "^3.13.0"
+  },
+  "name": "mxconsole",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "lordskidgod",
+  "license": "ISC",
+  "description": ""
+}
