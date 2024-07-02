@@ -157,15 +157,6 @@ Displays the URL or link to the Minecraft server's official website or related r
 ## 🛠️ Error Logging
 - MxConsole ensures robust performance with comprehensive error logging. Errors are instantly relayed to your designated Discord channel via webhook integration. onfigure the webhook URL in the `.env` file.
 
-## 📧 Contact
-
-For support, questions, or any inquiries, feel free to contact us, reach out through:
-
-- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
-- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
-
-We value your feedback and are here to help you make the most out of MxConsole.
-
 ## 📜 License
 
 > [!NOTE] 
@@ -182,6 +173,15 @@ We value your feedback and are here to help you make the most out of MxConsole.
 
 
 For more details, please see the [LICENSE](LICENSE) file included with the source code.
+
+## 📧 Contact
+
+For support, questions, or any inquiries, feel free to contact us, reach out through:
+
+- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
+- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
+
+We value your feedback and are here to help you make the most out of MxConsole.
 
 ### Notes:
 > [!NOTE]
