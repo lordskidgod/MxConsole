@@ -64,7 +64,7 @@ module.exports = {
                     { name: '⏳ Uptime:', value: `\`\`\`${uptime}\`\`\``, inline: true },
                     { name: '⚙️ CPU Usage:', value: `\`\`\`${cpuUsage}%\`\`\``, inline: true },
                     { name: '💾 Memory Usage:', value: `\`\`\`${((usedMemoryMB / totalMemoryMB) * 100).toFixed(1)}%\`\`\``, inline: true },
-                    { name: '🗃️ Disk Usage:', value: `\`\`\`${usedDiskGB} GB / ${totalDiskGB} GB\`\`\``, inline: true },
+                    { name: '📂 Disk Usage:', value: `\`\`\`${usedDiskGB} GB / ${totalDiskGB} GB\`\`\``, inline: true },
                     { name: '📊 Network Sent:', value: `\`\`\`${networkSent} GB\`\`\``, inline: true },
                     { name: '📥 Network Received:', value: `\`\`\`${networkReceived} GB\`\`\``, inline: true },
                     { name: '📋 Commands:', value: `\`\`\`${interaction.client.commands.size}\`\`\``, inline: true }
