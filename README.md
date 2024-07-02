@@ -110,7 +110,7 @@ node src/register-commands.js
 ## 📋 Commands
 
 <details>
-<summary>/buginfo</summary>
+<summary>/botinfo</summary>
 Displays information about the bot.
 </details>
 <details>
