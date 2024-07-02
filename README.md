@@ -110,6 +110,10 @@ node src/register-commands.js
 ## 📋 Commands
 
 <details>
+<summary>/buginfo</summary>
+Displays information about the bot.
+</details>
+<details>
 <summary>/bug-report</summary>
 Allows users to report bugs or issues related to the Minecraft server.
 </details>
