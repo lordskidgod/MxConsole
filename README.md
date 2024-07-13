@@ -7,7 +7,7 @@
     <img src="MxConsole2.png" alt="MxConsole Logo" width="200"/>
 </p>
 
-MxConsole is a versatile Discord bot designed to enhance the SriCraft Minecraft server with advanced features, professional commands, and custom functionalities.
+MxConsole is a versatile Discord bot designed to enhance your Minecraft server with advanced features, professional commands, and custom functionalities.
 
 ## Table of Contents
 
